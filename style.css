@@ -1,0 +1,71 @@
+.back{
+    background-color: lavenderblush;
+    border-style: solid;
+    text-align: center;
+}
+.back2{
+    background-color: lavenderblush;
+    border-style: solid;
+    text-align: center;
+}
+.logo{
+    text-align: center;
+}
+.logotext{
+    text-align: center;
+}
+.nav a{
+    background-color: purple;
+    color: pink;
+    text-decoration: none;
+    padding: 16px 40px ;
+    text-align: center;
+   }
+.nav a:hover{
+    color: purple;
+    background-color: pink;
+}
+.nav a:active{
+    color: purple;
+    background-color: pink;
+}
+.web a{
+    background-color: purple;
+    color: pink;
+    text-decoration: none;
+    padding: 16px 40px ;
+    text-align: center;  
+}
+.web a:hover{
+    color: purple;
+    background-color: pink;
+}
+.web a:active{
+    color: purple;
+    background-color: pink;
+}
+.web2 a{
+    background-color: purple;
+    color: pink;
+    text-decoration: none;
+    padding: 16px 40px ;
+    text-align: center;  
+}
+.web2 a:hover{
+    color: purple;
+    background-color: pink;
+}
+.web2 a:active{
+    color: purple;
+    background-color: pink;
+}
+.back3{
+    background-color: lavenderblush;
+    border-style: solid;
+    text-align: center;
+}
+.back4{
+    background-color: lavenderblush;
+    border-style: solid;
+    text-align: center;
+}
